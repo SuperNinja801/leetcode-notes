@@ -1,4 +1,4 @@
-/*删除排序数组中的重复项  方法：快慢指针*/
+/*删除排序数组中的重复项，返回删除后的数组的长度  方法：快慢指针*/
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
